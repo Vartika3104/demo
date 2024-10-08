@@ -1,2 +1,2 @@
 # demo
-This a practice for Git and Github.
+This a practice for Git & Github.
